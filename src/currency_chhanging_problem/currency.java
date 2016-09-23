@@ -12,8 +12,8 @@ package currency_chhanging_problem;
 public class currency {
     
     int amount;
-    int cr[]={1000,500,100,50,20,10,5,1};
-    int count[]=new int[8];
+    int cr[]={5000,1000,500,100,50,20,10,5,1};
+    int count[]=new int[cr.length];
     int total=0;
     
     public currency(int a){

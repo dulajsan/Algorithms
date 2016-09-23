@@ -3,9 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Naive_string_matching/Naive.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/algorithms/Algorithms.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/currency_chhanging_problem/currency.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Dijkstra/DijkstraAlgo.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Huffman/Heap.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Huffman/ReadFile.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Huffman/Huffman.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Knapsak_dynamic/Knapsack_01_Greedy.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Knapsak_dynamic/KnapsackItem.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/algorithms/src/Knapsak_dynamic/Knapsack.java</file>
         </group>
     </open-files>
 </project-private>
